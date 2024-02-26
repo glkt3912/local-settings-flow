@@ -12,5 +12,8 @@
   "devDependencies": {
     "prettier": "^3.2.5",
     "prettier-plugin-md-nocjsp": "^1.5.1"
+  },
+  "dependencies": {
+    "md-to-pdf": "^5.2.4"
   }
 }
